@@ -1,0 +1,19 @@
+BFS
+Arad
+Bucharest
+9
+Arad Zerind 1
+Arad Sibiu 1
+Arad Timi 1
+Sibiu Arad 1
+Sibiu Oradea 1
+Sibiu Fagaras 1
+Sibiu Rimmiciu 1
+Fagaras Sibiu 1
+Fagaras Bucharest 1
+5
+Arad 10
+Zerind 12
+Sibiu 8
+Oradea 2
+Fagaras 3
