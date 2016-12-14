@@ -1,0 +1,31 @@
+DFS
+A
+goal
+22
+A B 1
+A C 1
+A D 1
+A E 1
+A F 1
+A G 1
+A H 1
+B I 1
+B C 1
+B K 1
+I goal 1
+C I 1
+C E 1
+C F 1
+F J 1
+J goal 1
+D K 1
+K goal 1
+E C 1
+F A 1
+H goal 1
+G goal 1
+4
+A 12
+B 3
+C 2
+D 3

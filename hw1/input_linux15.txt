@@ -1,0 +1,32 @@
+DFS
+A
+G
+25
+A B 1
+A C 1
+A D 1
+A E 1
+A F 1
+B C 1
+B A 1
+B H 1
+B G 1
+H G 1
+C A 1
+C I 1
+C J 1
+C K 1
+J G 1
+D A 1
+D M 1
+D N 1
+E O 1
+E P 1
+E X 1
+E F 1
+P G 1
+F Y 1
+F Z 1
+2
+A 3
+B 2

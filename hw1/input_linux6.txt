@@ -1,0 +1,20 @@
+UCS
+Arad
+Bucharest
+12
+Arad Zerind 75
+Arad Sibiu 140
+Arad Timi 118
+Zerind Oradea 71
+Timi Lugoj 111
+Sibiu Fagaras 99
+Sibiu Rimni 80
+Sibiu Arad 99
+Ordea Zerind 71
+Lugoj Timi 111
+Fagaras Sibiu 99
+Fagaras Bucharest 211
+3
+Arad 250
+Sibiu 200
+Zerind 272

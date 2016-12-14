@@ -1,0 +1,11 @@
+BFS
+A
+D
+4
+A B 1
+B C 1
+C A 1
+C D 1
+2
+A 3
+B 2
